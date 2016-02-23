@@ -4,6 +4,7 @@
 
 
 http://www.oldkeller.com
+https://www.youtube.com/watch?v=FT_xXmEswUE
 
 ##Inspiration
 The inspiration for Keller came to us as we began to take notice of all the things sighted people take for granted: the ability to read dollar notes, bathroom signs, room numbers, and so much more. We wanted to build an application that extended far beyond any accessibility app we have ever undertaken. Keller is just that.
