@@ -1,4 +1,4 @@
-##MHacks 2016: Refactor winner: Best Use of Firebase
+##MHacks 2016: Refactor Winner: Best Use of Firebase
 
 ![alt text](http://i.imgur.com/Eo3RJaC.png)
 
